@@ -1,7 +1,7 @@
 # Paisa-Bazaar-EDA
 “Data analysis and visualization project for PaisaBazaar, focusing on credit risk assessment using feature engineering and exploratory data analysis.”
 
-# PaisaBazaar Project
+##  PaisaBazaar Project
 
 This project analyzes customer financial data to assess credit risk.  
 It includes data cleaning, feature engineering, visualization, and business insights 
